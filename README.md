@@ -1,6 +1,6 @@
 ## News Application with React and ExpressJS Framework (P5)
 
-## Available Scripts
+-- Available Scripts
 
 In the project directory, you can run:
 
